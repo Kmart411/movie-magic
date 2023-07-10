@@ -1,0 +1,5 @@
+Accuracy: 92.50
+Balanced Accuracy: 32.63
+Precision: 32.30
+Recall: 32.63
+F1: 30.84
